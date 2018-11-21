@@ -19,3 +19,7 @@ Deployment can be on any web server or even local system
 ##How to contribute
 
 Mail to starter-web.com
+
+##Copyright
+
+2014 Git.Training
