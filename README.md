@@ -18,7 +18,7 @@ Deployment can be on any web server or even local system
 
 ##How to contribute
 
-Mail to starter-web.com
+Please fork this repository and issue a pull request for review
 
 ##Copyright
 
